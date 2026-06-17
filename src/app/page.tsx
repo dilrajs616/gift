@@ -169,12 +169,12 @@ export default function Home() {
         setSecretUnlocked(true);
         setChapter(8);
         setEasterCount((v) => v + 1);
-        setEasterMsg("Secret room unlocked for Chellam!");
+        setEasterMsg("Secret room unlocked for Princess!");
         play();
       }
       if (next.includes("paapa")) {
         setEasterCount((v) => v + 1);
-        setEasterMsg("Paapa mode: raining hearts incoming!");
+        setEasterMsg("Angel mode: raining hearts incoming!");
         setShowFinale(true);
         play();
       }

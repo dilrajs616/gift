@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "For Mithu ❤️",
-  description: "A cute interactive surprise for Mithu",
+  title: "For Noddy ❤️",
+  description: "A cute interactive surprise for my princess",
 };
 
 export default function RootLayout({
